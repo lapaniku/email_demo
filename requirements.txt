@@ -1,0 +1,13 @@
+certifi==2017.7.27.1
+click==6.7
+flask==0.12
+itsdangerous==0.24
+jinja2==2.9.5
+jsonschema==2.6.0
+markupsafe==1.0
+pyopenssl==17.2.0
+readline==6.2
+requests==2.14.2
+setuptools==36.2.2
+werkzeug==0.12.2
+wheel==0.29.0
